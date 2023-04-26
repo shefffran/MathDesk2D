@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 903cb31d850fdfc48863663fc6409871
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Easter Meadow
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 6b31f6433c283334a9d4b094a057ecbd, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
